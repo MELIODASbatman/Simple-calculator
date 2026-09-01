@@ -1,4 +1,3 @@
-# Simple calculator
 # Simple Calculator - VB.NET
 
 ## Description
